@@ -18,7 +18,7 @@ function App() {
     <>
       <div className='flex justify-center min-h-screen items-center'>
         {/* <LoginPage /> */}
-        <RegisterPage />
+        {/* <RegisterPage /> */}
       </div>
     </>
   )
